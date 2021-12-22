@@ -9,6 +9,7 @@
 * Body(x-www-form-urlencoded)
 * Body(json)
 
+本工具仅供学习研究自查使用，切勿用于非法用途，由使用该工具产生的一切风险均与本人无关！
 # 使用方法
 ``` java -Dtarget=https://xxx.com/login.jsp -jar .\Log4j2ActiveScan-1.0-SNAPSHOT.jar ```
 
